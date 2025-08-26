@@ -35,7 +35,7 @@
 - 🔗 GitHub: [github.com/mangoz39](https://github.com/mangoz39)
 
 ---
-<!-- ---
+<!--
 
 ### 📂 Projects
 
@@ -50,8 +50,6 @@
 #### Miscellaneous Projects
 - Created
 - **Tech Stack:** 
-
----
 -->
 
 ### 📊 GitHub Stats
