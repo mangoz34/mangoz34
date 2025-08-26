@@ -50,8 +50,9 @@
 #### Miscellaneous Projects
 - Created
 - **Tech Stack:** 
--->
+
 ---
+-->
 
 ### 📊 GitHub Stats
 
