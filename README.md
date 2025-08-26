@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **MS in Electrical and Computer Engineering** from [University of Washington](https://www.washington.edu/)
+- 🎓 **Currently MS in Electrical and Computer Engineering** at [University of Washington](https://www.washington.edu/)
 - 🎓 **BS in Computer Science** from [National Central University](https://www.ncu.edu.tw/)
 - 🌐 Experienced in **C++, Python, Java, and AWS Cloud services**
 - 🛠 Passionate about **Full-Stack Development, Cloud Infrastructure, and Automation**
