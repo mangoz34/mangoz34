@@ -1,4 +1,4 @@
-### Hi, I'm Jerry Chung!
+### Hi there! This is Jerry Chung!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jchung502)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mangoz39)
