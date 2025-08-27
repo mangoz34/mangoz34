@@ -30,8 +30,8 @@
 
 - 🌐 Website: 
 - 📧 Email: [jerryh.chung@outlook.com](mailto:jerryh.chung@outlook.com)
-- 💼 LinkedIn: [jchung502](https://www.linkedin.com/in/jchung502)
-- 🔗 GitHub: [github.com/mangoz39](https://github.com/mangoz39)
+- 💼 LinkedIn: [jchung34](https://www.linkedin.com/in/jchung34)
+- 🔗 GitHub: [github.com/mangoz34](https://github.com/mangoz34)
 
 ---
 <!--
