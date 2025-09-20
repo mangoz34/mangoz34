@@ -28,7 +28,7 @@
 
 ### 🤝 Connect
 
-- 🌐 Website: [mangoz34.com](manogz34.com)
+- 🌐 Website: [mangoz34.com](https://manogz34.com)
 - 📧 Email: [jerryh.chung@outlook.com](mailto:jerryh.chung@outlook.com)
 - 💼 LinkedIn: [jchung34](https://www.linkedin.com/in/jchung34)
 - 🔗 GitHub: [github.com/mangoz34](https://github.com/mangoz34)
