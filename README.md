@@ -55,8 +55,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangoz39&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangoz39&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mangoz34&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangoz34&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
