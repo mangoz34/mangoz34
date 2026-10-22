@@ -8,6 +8,7 @@
 
 ### 🚀 About Me
 
+- 🔧 **Ex-SDE Intern @ TSMC, Micron** (Capstone Project)
 - 🎓 **Currently MS in Electrical and Computer Engineering** at [University of Washington](https://www.washington.edu/)
 - 🎓 **BS in Computer Science** from [National Central University](https://www.ncu.edu.tw/)
 - 🌐 Experienced in **C++, Python, Java, and AWS Cloud services**
@@ -17,8 +18,8 @@
 
 ### 🔧 Tech Stack
 
-- **Programming Languages:** C++, Python, Java, Javascript, SQL, HTML, CSS
-- **Cloud & DevOps:** AWS (EC2, S3, SQS, Lambda), CI/CD (Jenkins), Docker, Kubernetes
+- **Programming Languages:** C/C++, Python, Java, Javascript, TypeScript, Verilog, SQL, Web
+- **Cloud & DevOps:** AWS (EC2, S3, SQS, Lambda), Azure, CI/CD (Jenkins), Docker, Kubernetes
 - **Tools & Frameworks:** REST APIs, Git/GitHub, Linux/Shell
 - **Core Concepts:** Data Structures & Algorithms, OOP
 
