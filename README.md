@@ -57,6 +57,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mangoz34&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangoz34&theme=radical" alt="GitHub Streak"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mangoz34/mangoz34/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mangoz34/mangoz34/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mangoz34/mangoz34/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
+
 
 ---
